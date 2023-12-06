@@ -1,4 +1,4 @@
-# GusserGame
+# Guessing Game
 
 to crete this game we using Java as a developing language
 
